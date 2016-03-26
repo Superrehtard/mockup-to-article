@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+  * I have learned new skills on how to tackle/approach a problem in front end development in general, learnt few neat tricks to format the web page, learned about markdown style, and these are only few of many things that I have developed over the past few days.
+
+  * I don't feel like this was easy in any sense, everything requires bit of effort. Certainly things feel a bit easy when you have proper guidance and I feel that through that guidance the exercises or the task in the course were made easy.
+
+  * My response to the second question answer the question at hand, like I have said, with proper direction even the most difficult things can be made easy and also, I think that my past experience with the web had made almost all of the tasks till now easy and I did not find anything difficult in particular.
+
+  * Definitely, for most of the exercises I did not know the answers right away but I knew that the answer is not that far away either, all I had to do was employ the first strategy I learned from the previous project and I am good to go.
